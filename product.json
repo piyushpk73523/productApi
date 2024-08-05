@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Samsung Galaxy S21",
+    "price": 699,
+    "featured": false,
+    "rating": 4.7,
+    "createdAt": "2024-07-29T00:00:00.000Z",
+    "company": "samsung"
+  },
+  {
+    "name": "Samsung Galaxy S23",
+    "price": 799,
+    "featured": false,
+    "rating": 4.8,
+    "createdAt": "2024-07-29T00:00:00.000Z",
+    "company": "samsung"
+  },
+  {
+    "name": "Samsung Galaxy S24",
+    "price": 899,
+    "featured": false,
+    "rating": 4.8,
+    "createdAt": "2024-07-29T00:00:00.000Z",
+    "company": "samsung"
+  },
+  {
+    "name": "Dell XPS 13",
+    "price": 999,
+    "featured": true,
+    "rating": 4.8,
+    "createdAt": "2024-07-29T00:00:00.000Z",
+    "company": "dell"
+  },
+  {
+    "name": "HP Spectre x360",
+    "price": 1199,
+    "featured": false,
+    "rating": 4.6,
+    "createdAt": "2024-07-29T00:00:00.000Z",
+    "company": "hp"
+  },
+  {
+    "name": "Dell XPS 14",
+    "price": 899,
+    "featured": true,
+    "rating": 4.8,
+    "createdAt": "2024-07-29T00:00:00.000Z",
+    "company": "dell"
+  },
+  {
+    "name": "Asus ROG Zephyrus",
+    "price": 1499,
+    "featured": true,
+    "rating": 4.9,
+    "createdAt": "2024-07-29T00:00:00.000Z",
+    "company": "asus"
+  },
+  {
+    "name": "Lenovo ThinkPad X1 Carbon",
+    "price": 1299,
+    "featured": true,
+    "rating": 4.8,
+    "createdAt": "2024-07-29T00:00:00.000Z",
+    "company": "lenovo"
+  },
+  {
+    "name": "Sony WH-1000XM4",
+    "price": 349,
+    "featured": false,
+    "rating": 4.7,
+    "createdAt": "2024-07-29T00:00:00.000Z",
+    "company": "sony"
+  },
+  {
+    "name": "Bose QuietComfort 35 II",
+    "price": 299,
+    "featured": false,
+    "rating": 4.6,
+    "createdAt": "2024-07-29T00:00:00.000Z",
+    "company": "bose"
+  },
+  {
+    "name": "Bose QuietComfort 70",
+    "price": 299,
+    "featured": false,
+    "rating": 4.4,
+    "createdAt": "2024-07-29T00:00:00.000Z",
+    "company": "bose"
+  }
+]
